@@ -3,12 +3,12 @@ Peter the Great Saint-Petersburg Polytechnic University
 
 The report: «Implementation of the Subset Alternatives Classification (SAC) method for verbal decision analysis».
 
-Advisors:
-Assoc. prof, Cand. of Tech. Sci. Alexander Shchukin
+Advisors:<br />
+Assoc. prof, Cand. of Tech. Sci. Alexander Shchukin<br />
 Assistant V.A. Parkhomenko
 
-Contributor:
-student of the 3540903/10401 group
+Contributor:<br />
+student of the 3540903/10401 group<br />
 T.D. Belyakov
 
 # Порядковая классификация альтернатив
@@ -16,12 +16,12 @@ T.D. Belyakov
 
 Раздаточный материал на тему: «Реализация метода Subset Alternatives Classification (SAC) вербального анализа решений».
 
-Руководители:
-доцент, к.т.н. А. В. Щукин
+Руководители:<br />
+доцент, к.т.н. А. В. Щукин<br />
 ассистент В. А. Пархоменко
 
-Выполнил:
-студент группы 3540903/10401
+Выполнил:<br />
+студент группы 3540903/10401<br />
 Т.Д. Беляков
 
 ## Список использованных источников (References)
